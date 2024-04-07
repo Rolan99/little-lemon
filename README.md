@@ -1,70 +1,136 @@
-# Getting Started with Create React App
+# Little Lemon - Reustorant & Booking
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Content
 
-## Available Scripts
+- [Introduction](#introduction)
+- [Preparatory Sage](#preparatory-sage)
+    - [Wireframe](#wireframe)
+    - [UI Design](#ui-design)
+- [Features](#features)
+- [Live Demo](#live-demo)
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
+- [Todos](#todos)
+- [Installation](#installation)
+- [License](#license)
 
-In the project directory, you can run:
 
-### `npm start`
+![main-image](./readmeAssets/main-image.jpg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Introduction
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+In this project, from the beginning with figma wireframe design and figma UI design, I created a restaurant website with ReactJS. I tried to use all the features of ReactJS. I made a table reservation system. (I Designed I Coded I Published).
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Preparatory Sage
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Wireframe
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<details>
+<summary>Show Wireframe</summary>
 
-### `npm run eject`
+![wireframe1](./readmeAssets/wireframe/w1.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+</details>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### UI Design
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<details>
+<summary>Show UI Design</summary>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![ui-design-1](./readmeAssets/ui-design/ui1.png)
+![ui-design-2](./readmeAssets/ui-design/ui2.png)
 
-### Code Splitting
+</details>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Book a table
+- Order food online
+- View menu
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Live Demo
 
-### Advanced Configuration
+[Live Demo Link](https://azateser.github.io/little-lemon-finalProject/build)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![screenshot](./readmeAssets/screenshots/screenshot.png)
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Technologies
+
+- ReactJS
+
+---
+
+## Todos
+
+- [x] Figma wireframe design <br />
+- [x] Figma UI design <br />
+- [x] Create folder structure <br />
+- [x] Create components <br />
+- [x] Create pages <br />
+- [x] Create routes <br />
+- [x] Create styles <br />
+- [x] Create assets <br />
+- [x] Create README.md <br />
+- [x] Header <br />
+    - [x] Component <br />
+    - [x] Responsive <br />
+    - [x] States <br />
+    - [x] Mobile Menu <br />
+- [x] Slider <br />
+    - [x] Component <br />
+    - [x] Responsive <br />
+    - [x] States <br />
+- [x] Popular Dishes <br />
+    - [x] Component <br />
+    - [x] Responsive <br />
+    - [x] States <br />
+- [x] About Us <br />
+    - [x] Component <br />
+    - [x] Responsive <br />
+- [x] Menu Section <br />
+    - [x] Component <br />
+    - [x] Responsive <br />
+- [x] Reservation Section <br />
+    - [x] Component <br />
+    - [x] Responsive <br />
+- [x] Mobile App Section <br />
+    - [x] Component <br />
+    - [x] Responsive <br />
+- [x] Footer <br />
+    - [x] Component <br />
+    - [x] Responsive <br />
+- [x] Reservation Modal <br />
+    - [x] Component <br />
+    - [x] Responsive <br />
+    - [x] Booking System <br />
+- [x] Deploy <br />
+
+
+
+## Installation
+
+- Clone the repository
+- Run `npm install`
+- Run `npm start`
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
